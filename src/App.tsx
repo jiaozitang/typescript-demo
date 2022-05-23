@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
+import './基础类型/01.枚举'
 import './App.css';
 
 function App() {
